@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  margin-top: 30px;
+  font-family: "Courier";
+  background-color: #fff5e4;
+  color: #ff9494;
+}
+#thankyou {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
